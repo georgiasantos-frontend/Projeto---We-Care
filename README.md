@@ -13,7 +13,7 @@ Fiquem ligados para mais atualizacoes e insights sobre minha jornada profissiona
 
 <p float="left">
 
-<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/desktop.png?raw=true" width="400">
+<img src="https://github.com/georgiasantos-frontend/Projeto--We-Care/blob/master/assets/desktop.png?raw=true" width="400">
 
-<img src="https://github.com/georgiasantos-frontend/Easy-Shopping/blob/master/img/mobile.png?raw=true" width="100" height="200">
+<img src="(https://github.com/georgiasantos-frontend/Projeto--We-Care/assets/158577706/8bd559d4-c830-4b3c-93d8-6d87735d9b0e)le.png?raw=true" width="100" height="200">
 </p>
